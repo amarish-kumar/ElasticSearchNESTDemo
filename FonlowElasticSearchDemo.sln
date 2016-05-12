@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fonlow.Demo.Contracts", "Fonlow.Demo.Contracts\Fonlow.Demo.Contracts.csproj", "{AB58C719-A179-4901-9B26-2BEEFE251EB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESDemoLib", "ESDemoLib\ESDemoLib.csproj", "{E75EC062-2BC7-4D03-868D-3B2FC393A5A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicTests", "BasicTests\BasicTests.csproj", "{54ACAB5E-F512-4E41-9EDA-1E879250FD86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB58C719-A179-4901-9B26-2BEEFE251EB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB58C719-A179-4901-9B26-2BEEFE251EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB58C719-A179-4901-9B26-2BEEFE251EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB58C719-A179-4901-9B26-2BEEFE251EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E75EC062-2BC7-4D03-868D-3B2FC393A5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E75EC062-2BC7-4D03-868D-3B2FC393A5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E75EC062-2BC7-4D03-868D-3B2FC393A5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E75EC062-2BC7-4D03-868D-3B2FC393A5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54ACAB5E-F512-4E41-9EDA-1E879250FD86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54ACAB5E-F512-4E41-9EDA-1E879250FD86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54ACAB5E-F512-4E41-9EDA-1E879250FD86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54ACAB5E-F512-4E41-9EDA-1E879250FD86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
